@@ -10,7 +10,7 @@ using NUnit.Framework;
 using Wox.Infrastructure;
 using Wox.Plugin;
 
-namespace Microsoft.Plugin.Sys.UnitTests
+namespace Microsoft.PowerToys.Run.Plugin.Sys.UnitTests
 {
     public class ImageTests
     {
